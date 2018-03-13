@@ -1,0 +1,60 @@
+{
+  "_from": "git+https://github.com/petervojtek/cordova-plugin-signal-strength.git",
+  "_id": "cordova-plugin-signal-strength@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha1-4ZUSX5/9331e74Dtb9I8BvK4EKo=",
+  "_location": "/cordova-plugin-signal-strength",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/petervojtek/cordova-plugin-signal-strength.git",
+    "rawSpec": "https://github.com/petervojtek/cordova-plugin-signal-strength.git",
+    "saveSpec": "git+https://github.com/petervojtek/cordova-plugin-signal-strength.git",
+    "fetchSpec": "https://github.com/petervojtek/cordova-plugin-signal-strength.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/petervojtek/cordova-plugin-signal-strength.git#879522663de7fa143960b0d0b56e01c2331a22ee",
+  "_spec": "https://github.com/petervojtek/cordova-plugin-signal-strength.git",
+  "_where": "/Users/utkarsh/WebstormProjects/hello",
+  "author": {
+    "name": "Peter Vojtek"
+  },
+  "bugs": {
+    "url": "https://github.com/petervojtek/cordova-plugin-signal-strength/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-signal-strength",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "Apache Cordova GSM Signal Strength Plugin",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=5.0.0"
+    }
+  ],
+  "homepage": "https://github.com/petervojtek/cordova-plugin-signal-strength",
+  "keywords": [
+    "gsm",
+    "signal",
+    "strength",
+    "dbm",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "Apache 2.0",
+  "name": "cordova-plugin-signal-strength",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petervojtek/cordova-plugin-signal-strength.git"
+  },
+  "version": "1.0.3"
+}
